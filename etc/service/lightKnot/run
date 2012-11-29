@@ -1,1 +1,2 @@
+#!/bin/sh
 chpst -ug3d2 /home/seb/repos/lightKnot/lightKnot.js
