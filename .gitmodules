@@ -4,6 +4,3 @@
 [submodule "/home/seb/vimrc"]
 	path = /home/seb/vimrc
 	url = https://github.com/sebseb7/vimrc.git
-[submodule "/home/seb/repos/lightKnot"]
-	path = /home/seb/repos/lightKnot
-	url = https://github.com/sebseb7/lightKnot.git
