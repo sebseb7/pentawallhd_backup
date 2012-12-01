@@ -4,14 +4,15 @@ http.createServer(function (req, res)
 {
 	console.log(req.headers.host);
 
-	if(req.headers.host != 'wall')
+	if(req.headers.host != 'gruen')
 	{
-		res.writeHead(302, {'Location': 'http://wall/'});
+		res.writeHead(302, {'Location': 'http://gruen/'});
 		res.end();
 	}
 	else
 	{
 		res.writeHead(200, {'Content-Type': 'text/plain'});
-		res.end('Hello World\n');
+		res.end('gruen\n');
 	}
 }).listen(80, '10.0.10.1');
+
