@@ -1,0 +1,2 @@
+#!/bin/sh
+chpst -uroot /opt/http/server.js
