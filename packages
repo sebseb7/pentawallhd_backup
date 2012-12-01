@@ -6,6 +6,7 @@ base-files/wheezy
 base-passwd/wheezy
 bash/wheezy
 bash-completion/wheezy
+bind9-host/wheezy
 binutils/wheezy
 bsdmainutils/wheezy
 bsdutils/wheezy
@@ -18,6 +19,7 @@ console-setup-linux/wheezy
 coreutils/wheezy
 cpp/wheezy
 cpp-4.6/wheezy
+crda/wheezy
 cron/wheezy
 dash/wheezy
 debconf/wheezy
@@ -27,6 +29,9 @@ deborphan/wheezy
 dialog/wheezy
 diffutils/wheezy
 dmsetup/wheezy
+dnsmasq/wheezy
+dnsmasq-base/wheezy
+dnsutils/wheezy
 dpkg/wheezy
 dpkg-dev/wheezy
 e2fslibs/wheezy
@@ -49,6 +54,7 @@ gcc-4.5-base/wheezy
 gcc-4.6/wheezy
 gcc-4.6-base/wheezy
 gcc-4.7-base/wheezy
+geoip-database/wheezy
 git/wheezy
 git-core/wheezy
 git-man/wheezy
@@ -58,6 +64,7 @@ gpp/wheezy
 grep/wheezy
 groff-base/wheezy
 gzip/wheezy
+hostapd/wheezy
 hostname/wheezy
 ifplugd/wheezy
 ifupdown/wheezy
@@ -69,6 +76,7 @@ iptables/wheezy
 iputils-ping/wheezy
 isc-dhcp-client/wheezy
 isc-dhcp-common/wheezy
+iw/wheezy
 kbd/wheezy
 keyboard-configuration/wheezy
 kmod/wheezy
@@ -79,6 +87,7 @@ libapt-inst1.5/wheezy
 libapt-pkg-perl/wheezy
 libapt-pkg4.12/wheezy
 libattr1/wheezy
+libbind9-80/wheezy
 libblkid1/wheezy
 libbsd0/wheezy
 libbz2-1.0/wheezy
@@ -94,6 +103,7 @@ libdaemon0/wheezy
 libdb5.1/wheezy
 libdbus-1-3/wheezy
 libdevmapper1.02.1/wheezy
+libdns81/wheezy
 libdpkg-perl/wheezy
 libedit2/wheezy
 liberror-perl/wheezy
@@ -102,6 +112,7 @@ libffi5/wheezy
 libgcc1/wheezy
 libgcrypt11/wheezy
 libgdbm3/wheezy
+libgeoip1/wheezy
 libglib2.0-0/wheezy
 libgmp10/wheezy
 libgnutls26/wheezy
@@ -112,6 +123,9 @@ libgssapi-krb5-2/wheezy
 libicu-dev/wheezy
 libicu48/wheezy
 libidn11/wheezy
+libisc83/wheezy
+libisccc80/wheezy
+libisccfg82/wheezy
 libiw30/wheezy
 libk5crypto3/wheezy
 libkeyutils1/wheezy
@@ -121,6 +135,7 @@ libkrb5support0/wheezy
 libldap-2.4-2/wheezy
 liblocale-gettext-perl/wheezy
 liblua5.1-0/wheezy
+liblwres80/wheezy
 liblzma5/wheezy
 libmagic1/wheezy
 libmount1/wheezy
@@ -128,6 +143,7 @@ libmpc2/wheezy
 libmpfr4/wheezy
 libncurses5/wheezy
 libncursesw5/wheezy
+libnetfilter-conntrack3/wheezy
 libnewt0.52/wheezy
 libnfnetlink0/wheezy
 libnl-3-200/wheezy
@@ -139,6 +155,7 @@ libpam-modules-bin/wheezy
 libpam-runtime/wheezy
 libpam0g/wheezy
 libparted0debian1/wheezy
+libpcap0.8/wheezy
 libpci3/wheezy
 libpcre3/wheezy
 libpcsclite1/wheezy
@@ -245,6 +262,7 @@ sysvinit/wheezy
 sysvinit-utils/wheezy
 tar/wheezy
 tcl8.5/wheezy
+tcpdump/wheezy
 traceroute/wheezy
 triggerhappy/wheezy
 tzdata/wheezy
@@ -258,6 +276,7 @@ vim-nox/wheezy
 vim-runtime/wheezy
 wget/wheezy
 whiptail/wheezy
+wireless-regdb/wheezy
 wireless-tools/wheezy
 wpasupplicant/wheezy
 xkb-data/wheezy
